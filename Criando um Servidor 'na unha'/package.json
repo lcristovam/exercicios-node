@@ -1,0 +1,14 @@
+{
+  "name": "criandoumservidor",
+  "version": "1.0.0",
+  "description": "Aqui estamos aprendendo os primeiros passos no Node.js!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Cristovam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
